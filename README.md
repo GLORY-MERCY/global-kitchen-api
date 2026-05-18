@@ -1,5 +1,3 @@
-# global-kitchen-api
-
 # The Global Kitchen API
 
 ## Tech Stack
@@ -18,7 +16,7 @@
 
 ## Installation & Setup
 
-1. Clone: `git clone [your-repo-url]`
+1. Clone: `git clone https://github.com/GLORY-MERCY/global-kitchen-api.git`
 2. Install: `npm install`
 3. Create `.env` with PORT and MONGODB_URI
 4. Run: `npm run dev`
